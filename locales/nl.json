@@ -1,0 +1,16 @@
+{
+  "authentication": {
+    "connecting": "Bezig met verbinden..."
+  },
+  "error": {
+    "connection": "Apparaat is niet bereikbaar",
+    "not_supported": "Apparaat is niet ondersteund",
+    "timeout": "Apparaat reageert niet",
+    "unavailable": "Apparaat is niet beschikbaar"
+  },
+  "warning": {
+    "accounts": "Bediening is uitgeschakeld. Account limiet van apparaat bereikt.",
+    "firmware": "Apparaat met firmware __firmware__ wordt niet ondersteund.",
+    "unregistered": "Apparaat kan niet bediend worden."
+  }
+}
